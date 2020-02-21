@@ -7,7 +7,7 @@ public class GitTest {
 		
 		//한창현 수정
 		for(int i=0; i<4; i++) {
-			System.out.println("ㅋ");
+			System.out.println("ㅋㅋ");
 		}
 	}
 
